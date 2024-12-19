@@ -1,0 +1,328 @@
+{
+  "hero": {
+    "imgUrl": "/images/raina.png",
+    "name": "Apriani Nur Raina",
+    "heading": "Hay! I’m Raina",
+    "typingText": ["I'm a Designer", 1500, "I'm a Developer", 1500],
+    "description": "I am a dedicated Developer and UI/UX Designer with a passion for creating intuitive, user-centered digital experiences. Combining technical expertise in development with a strong eye for design, I craft solutions that are not only functional but also visually engaging with a focus on detail and innovation.",
+    "btnUrl": "contactus"
+  },
+  "socialBtns": [
+    {
+      "icon": "fa-brands:facebook-f",
+      "iconBgClass": "facebook",
+      "href": "/"
+    },
+    { "icon": "fa-brands:dribbble", "iconBgClass": "dribbble", "href": "/" },
+    {
+      "icon": "fa-brands:linkedin-in",
+      "iconBgClass": "linkedin",
+      "href": "/"
+    }
+  ],
+  "brands": [
+    {
+      "src": "/images/brand-1.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-2.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-1.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-2.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-1.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-2.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-1.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-2.svg",
+      "alt": "Logolpsum"
+    }
+  ],
+  "about": {
+    "imgSrc": "/images/uiux.png",
+    "miniTitle": "About Me",
+    "title": "I AM AVAILABLE FOR <span>UI UX DESIGN</span> PROJECTS",
+    "description": "I am actively seeking opportunities to collaborate on UI/UX design projects where I can apply my creativity and expertise to create user-focused, visually engaging, and impactful digital experiences. With a strong emphasis on usability and aesthetics, I aim to design solutions that not only meet project goals but also exceed user expectations.",
+    "funfacts": [
+      {
+        "title": "Years Experience",
+        "number": 2
+      },
+      {
+        "title": "Award Winning",
+        "number": 5
+      }
+    ],
+    "btnText": "Get in touch",
+    "btnUrl": "contactus"
+  },
+  "projects": {
+    "sectionHeading": {
+      "miniTitle": "My Work",
+      "title": "RECENT PROJECT"
+    },
+    "allProjects": [
+      {
+        "thumbUrl": "/images/ayolari.jpg",
+        "title": "Dashboard Ayo Lari Telkomsel",
+        "subTitle": "Web Project",
+        "details": {
+         "title": "Interactive Dashboard for Telkomsel's Ayo Lari",
+         "description": "A user-friendly dashboard designed to support Telkomsel's 'Ayo Lari' campaign. The platform provides real-time tracking, progress analytics, and participant management, ensuring a seamless experience for campaign organizers and participants. Built with modern web technologies to deliver optimal performance and responsiveness.",
+          "type": "Website",
+          "languages": "Next Js",
+          "url": "https://fe-cms-fnn2.vercel.app/dashboard"
+        }
+      },
+      {
+        "thumbUrl": "/images/QRIS_Verifier.png",
+        "title": "QRIS Verifier",
+        "subTitle": "App Design",
+        "details": {
+          "title": "App Design for Tech Startup",
+          "description": "QRIS Verifier is an innovative application designed to ensure secure and reliable QRIS transactions. It helps users verify the authenticity of merchant QR codes, reducing the risk of fraud and misdirected payments. The app features tools like detailed merchant verification, reporting invalid QRIS codes, and accessing user reviews and ratings.",
+          "type": "Mobile App",
+          "tools": "Figma",
+          "url": "https://www.figma.com/design/2Frx9ZUD1qwsyZsI56pBFd/PasarAI?node-id=536-1790&t=8BDGZzPsaFu04jDa-1"
+        }
+      },
+      {
+        "thumbUrl": "/images/PasarAI.png",
+        "title": "PasarAI",
+        "subTitle": "App Design",
+        "details": {
+          "title":  "App Design for Tech Startup",
+          "description": "An AI-powered platform offering a wide range of customizable models that users can generate to suit their specific needs. From text generation and image creation to predictive analytics and automation, the platform provides versatile solutions designed to enhance productivity, streamline workflows, and empower users with cutting-edge AI capabilities tailored to diverse industries and applications.",
+          "type": "Mobile App",
+          "tools": "Figma",
+          "url": "https://www.figma.com/proto/2Frx9ZUD1qwsyZsI56pBFd/PasarAI?node-id=467-1714&node-type=frame&t=uwaXH0MGdiLSGQzr-1&scaling=scale-down&content-scaling=fixed&page-id=34%3A693&starting-point-node-id=467%3A1714"
+        }
+      },
+      {
+        "thumbUrl": "/images/tradica.jpg",
+        "title": "Tradica",
+        "subTitle": "Web Design",
+        "details": {
+          "title": "Website design for exploring Indonesian culture",
+          "description": "A website designed to explore and discover the rich cultural heritage of Indonesia. This platform allows users to easily search and learn about traditional arts, music, dances, culinary specialties, local customs, and unique traditions from regions across the archipelago. With an intuitive interface and comprehensive database, the website serves as a gateway to Indonesia's diverse cultural treasures, connecting users with the stories and history behind each region's distinctive identity.",
+          "type": "Website",
+          "tools": "Figma",
+          "url": "https://www.figma.com/proto/Ib5828QU6WEDqYotqRkfJr/TUBES-BISDIG?node-id=497-3223&t=giD5mLQZqcFMNwuR-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=497%3A3223"
+        }
+      },
+      {
+        "thumbUrl": "/images/speak-up.png",
+        "title": "Speak Up",
+        "subTitle": "Web Design, App Design",
+        "details": {
+          "title": "Speak Up: Engaging Communication Learning Tool for Tunagrahita",
+          "description": "Speak Up is an interactive web-based platform designed to support individuals with intellectual disabilities (tunagrahita) in improving their communication skills. Through engaging games and educational activities, the platform fosters an enjoyable learning experience. This project is part of a community service initiative aimed at empowering inclusivity in education.",
+          "type": "Website",
+          "tools": "Figma",  
+          "url": "https://www.figma.com/proto/4EZQ85Bq2TQgA14BISFb8o/MTO---Pengmas-SLB-C-Tunagrahita?node-id=289-2069&starting-point-node-id=289%3A2069&t=AxUNs415DZy3UFup-1"
+        }
+      },
+      {
+        "thumbUrl": "/images/lms.jpg",
+        "title": "Redesign LMS Telkom Univ",
+        "subTitle": "Web Design, App Design",
+        "details": {
+          "title": "Enhanced LMS for Telkom University: A Research Initiative",
+          "description": "This project involves the redesign of Telkom University's Learning Management System (LMS), aimed at improving the user experience for both students and lecturers. As part of a research initiative led by faculty members, the redesign introduces enhanced usability, intuitive navigation, and features tailored to streamline learning and teaching processes. The project prioritizes accessibility and efficiency to meet the evolving needs of the academic community.",
+          "type": "Website",
+          "tools": "Figma",
+          "url": "https://lms.telkomuniversity.ac.id/"
+        }
+      }
+    ]
+  },
+  "service": {
+    "sectionHeading": {
+      "miniTitle": "SERVICES",
+      "title": "Design <span>services</span> I am providing"
+    },
+    "allService": [
+      {
+        "imgUrl": "/images/QRIS_Verifier.png",
+        "title": "QRIS Verifier",
+        "subTitle": "QRIS Verifier is a solution for verifying QRIS payment codes, ensuring secure and seamless transactions",
+        "icon": "bi:brush-fill"
+      },
+      {
+        "imgUrl": "/images/PasarAi.png",
+        "title": "PasarAI",
+        "subTitle": "PasarAI is an AI-powered platform offering innovative tools and solutions to enhance productivity",
+        "icon": "bi:code-square",
+        "ratings": 4.5
+      },
+      {
+        "imgUrl": "/images/service-03.jpg",
+        "title": "SEO Marketing",
+        "subTitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
+        "icon": "bi:speedometer2",
+        "ratings": 5
+      },
+      {
+        "imgUrl": "/images/service-04.jpg",
+        "title": "Graphic Design",
+        "subTitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
+        "icon": "bi:palette",
+        "ratings": 5
+      }
+    ]
+  },
+  "awards": {
+  "sectionHeading": {
+    "miniTitle": "Awards",
+    "title": "My Achievements <span>and Awards</span>"
+  },
+  "allAwards": [
+    {
+      "title": "Juara 1 International UI/UX Designing Competition IHRD Tharang India",
+      "image": "/images/India.png",
+      "date": "Feb 2023",
+      "description": "Awarded for outstanding innovation in the field of mobile application development."
+    },
+    {
+      "title": "Juara 2 UI/UX Design IT Festival IPB 2023",
+      "image": "/images/ITFEST.png",
+      "date": "Sep 2023",
+      "description": "Recognized for significant contributions to data engineering research."
+    },
+    {
+      "title": "Juara 1 UI/UX Design SE-Research Innovation Challenge 2022",
+      "image": "/images/SE RESEARCH.png",
+      "date": "Sep 2022",
+      "description": "Received for exceptional performance and dedication in front-end development projects."
+    }
+  ]
+},
+  "experience": {
+    "sectionHeading": {
+      "miniTitle": "Experience",
+      "title": "My Work <span>Experience</span>"
+    },
+      "allExperience": [
+        {
+          "designation": "Front-end Developer",
+          "company": "PT Indonesia Satu Tujuh - Jakarta",
+          "duration": "Sept 2023 - Now",
+          "jobType": "Full time",
+          "companyTitle": "About Company",
+          "companyDescription": "PT Indonesia Satu Tujuh specializes in innovative application development for diverse industries.",
+          "responsibilities": [
+            "Designed and developed dynamic, responsive user interfaces using React.js and Tailwind CSS, resulting in improved user experience and cross-browser compatibility.",
+            "Created and maintained scalable, reusable components and front-end libraries, ensuring maximum performance and efficiency in codebase management.",
+            "Integrated RESTful APIs and managed application state with React hooks and context API, ensuring seamless data flow and real-time updates.",
+            "Collaborated with UI/UX designers and backend developers to translate design mockups into high-quality code while actively participating in Agile methodologies."
+          ]
+        },
+        {
+          "designation": "Practicum Assistant of Information System Design Analysis",
+          "company": "Enterprise Application Development Laboratory - Bandung",
+          "duration": "Feb 2023 - Jul 2023",
+          "jobType": "Part time",
+          "companyTitle": "About Laboratory",
+          "companyDescription": "A practical laboratory in Information Systems at Telkom University.",
+          "responsibilities": [
+            "Assisted students in understanding practical work concepts, providing guidance to improve their skills.",
+            "Prepared reports on practical work by collecting data and providing feedback on student performance.",
+            "Served as a mentor by providing inspiration and guidance to students, helping them develop their skills.",
+            "Monitored and assessed student work in a timely and accurate manner, producing objective grades."
+          ]
+        },
+        {
+          "designation": "Practicum Assistant of Object Oriented Programming",
+          "company": "Enterprise Application Development Laboratory - Bandung",
+          "duration": "Sep 2022 - Dec 2022",
+          "jobType": "Part time",
+          "companyTitle": "About Laboratory",
+          "companyDescription": "A practical laboratory in Information Systems at Telkom University.",
+          "responsibilities": [
+            "Helped students understand fundamental and advanced concepts of object-oriented programming, resulting in improved performance.",
+            "Guided students in topics like inheritance, polymorphism, and encapsulation.",
+            "Received positive feedback for high-quality instruction, increasing student engagement and satisfaction."
+          ]
+        },
+        {
+          "designation": "Laboratory Assistant of Research",
+          "company": "Enterprise Data Engineering Laboratory - Bandung",
+          "duration": "Jun 2022 - Sep 2023",
+          "jobType": "Part time",
+          "companyTitle": "About Laboratory",
+          "companyDescription": "A research-focused laboratory in Information Systems at Telkom University.",
+          "responsibilities": [
+            "Managed research projects by coordinating activities, timelines, and communication with team members.",
+            "Co-authored research papers published in leading data engineering journals and conferences.",
+            "Mentored junior researchers in conducting experiments, analyzing data, and developing research skills."
+          ]
+        },
+        {
+          "designation": "UI/UX Designer",
+          "company": "Mobile Innovation Laboratory - Bandung",
+          "duration": "Dec 2022 - Apr 2022",
+          "jobType": "Part time",
+          "companyTitle": "About Laboratory",
+          "companyDescription": "A laboratory in the Informatics Faculty at Telkom University specializing in mobile innovation.",
+          "responsibilities": [
+            "Collaborated with digital business teams and developers to create user interface designs that improved user satisfaction.",
+            "Conducted user research to understand user needs and inform the design process.",
+            "Worked on multiple design projects simultaneously, ensuring high-quality output within tight deadlines."
+          ]
+        }
+      ]
+    },
+  "testimonial": {
+    "sectionHeading": {
+      "miniTitle": "Testimonial",
+      "title": "Over <span>8,000+</span> <br /> PEOPLE TRUST ME"
+    },
+    "allTestimonial": [
+      {
+        "reviewText": "Donec tellus sem, tempor ac purus a, porttitor lobortis purus. Etiam quis nisl eget ex pulvinar consectetur. Suspendisse potenti. Cras non elementum risus. Fusce massa tellus, consequat a rutrum et, aliquam a lacus. Quisque viverra egestas tincidunt. Nunc nec nisi sed enim consectetur ullamcorper. Vestibulum at neque tortor. Pellentesque urna enim, ultricies at tortor eu, elementum egestas leo. In hac habitasse platea dictumst.",
+        "avatarImg": "/images/avatar-1.jpg",
+        "avatarName": "Pamela Anders",
+        "avatarCompany": "Company Name"
+      },
+      {
+        "reviewText": "Donec tellus sem, tempor ac purus a, porttitor lobortis purus. Etiam quis nisl eget ex pulvinar consectetur. Suspendisse potenti. Cras non elementum risus. Fusce massa tellus, consequat a rutrum et, aliquam a lacus. Quisque viverra egestas tincidunt. Nunc nec nisi sed enim consectetur ullamcorper. Vestibulum at neque tortor. Pellentesque urna enim, ultricies at tortor eu, elementum egestas leo. In hac habitasse platea dictumst.",
+        "avatarImg": "/images/avatar-2.jpg",
+        "avatarName": "Pamela Anders",
+        "avatarCompany": "Company Name"
+      },
+      {
+        "reviewText": "Donec tellus sem, tempor ac purus a, porttitor lobortis purus. Etiam quis nisl eget ex pulvinar consectetur. Suspendisse potenti. Cras non elementum risus. Fusce massa tellus, consequat a rutrum et, aliquam a lacus. Quisque viverra egestas tincidunt. Nunc nec nisi sed enim consectetur ullamcorper. Vestibulum at neque tortor. Pellentesque urna enim, ultricies at tortor eu, elementum egestas leo. In hac habitasse platea dictumst.",
+        "avatarImg": "/images/avatar-3.jpg",
+        "avatarName": "Pamela Anders",
+        "avatarCompany": "Company Name"
+      }
+    ]
+  },
+  "contact": {
+    "sectionHeading": {
+      "title": "Let’s Discuss Your Project",
+      "subTitle": "Always available for freelancing if the right project comes along, Feel free to contact me."
+    },
+    "contactImg": "/images/raina1.png",
+    "contactInfo": [
+      { "title": "My Email", "email": "aprianiraina717@gmail.com" },
+      { "title": "Phone", "tel": "+62 82352727521" }
+    ]
+  }
+}
